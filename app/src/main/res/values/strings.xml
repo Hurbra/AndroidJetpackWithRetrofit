@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidJetpackTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_fragment">List Fragment</string>
+    <string name="details_fragment">Details Fragment</string>
+    <string name="list_error_text">An error occured while loading data...</string>
+    <string name="place_name">Place Name</string>
+    <string name="place_id">Place Id</string>
+    <string name="val_longitude">Longitude</string>
+    <string name="val_latitude">Latitude</string>
+</resources>
